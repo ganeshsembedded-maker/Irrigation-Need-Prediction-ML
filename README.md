@@ -38,5 +38,4 @@ Decision-Tree-Classification-ML/ │ ├── Tree.ipynb # Main notebook contai
 6. Made predictions on test data
 7. Evaluated model performance using accuracy and metrics
 
---://github.com/your-username/Decision-Tree-Classification-ML.git
 
